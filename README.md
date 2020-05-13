@@ -49,6 +49,9 @@ Note : this process will erase your all data from your phone so create backup be
 ● Open Terminal and flash rom : `./flash.sh`
 
 <p align="center"><img src="https://github.com/thehackingsage/pwnphone/blob/master/img/pwnphone_5.jpg?raw=true" /></p>
+
+● Choose your device and the installation process will begin.
+
 <p align="center"><img src="https://github.com/thehackingsage/pwnphone/blob/master/img/pwnphone_6.jpg?raw=true" /></p>
 <p align="center"><img src="https://github.com/thehackingsage/pwnphone/blob/master/img/pwnphone_7.jpg?raw=true" /></p>
 
@@ -58,7 +61,9 @@ Note : this process will erase your all data from your phone so create backup be
 
 I know because of Mr.Robot's popularity many people would like to try it.. but currently i think the developers of Pwn Phone stoped working on this project because there is no update or latest version available of the previous pwn phone rom, even the old rom is now not available in their official website.. In past few months many people requested me to upload the pwn phone's rom that's why i'm updating this repository now..
 
-i also recommend you guys to try [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/). it is also free and much better than pwn phone and most important thing, you will receive the regular updates..
+i recommend you guys to try [Kali Nethunter](https://www.kali.org/kali-linux-nethunter/). it is also free and much better than pwn phone and most important thing, you will receive the regular updates..
+
+Watch This : [Kali Nethunter - Everything You Need To Know + Installation](https://www.youtube.com/watch?v=7QKqHWosCsU) (Language : Hindi)
 
 ## Download Links :
 
